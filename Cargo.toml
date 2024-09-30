@@ -1,0 +1,14 @@
+[package]
+name = "lsdcat"
+version = "0.0.1"
+edition = "2021"
+authors = ["Baraa Al-Masri <pub@mbaraa.com>"]
+description = "Rainbows and unicorns in Rust!"
+license = "GPL-3.0"
+repository = "https://github.com/mbaraa/lsdcat"
+keywords = ["color", "cli", "input", "terminal"]
+exclude = ["target", "Cargo.lock"]
+readme = "README.md"
+categories = ["command-line-interface", "command-line-utilities"]
+
+[dependencies]
