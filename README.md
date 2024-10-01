@@ -6,7 +6,7 @@ _image "borrowed" from [lolcat](https://github.com/busyloop/lolcat/blob/master/a
 
 # Screenshot
 
-![](https://github.com/mbaraa/lsdcat/raw/main/assets/screenshot.jpg)
+![](https://github.com/mbaraa/lsdcat/raw/main/assets/screenshot.png)
 
 # Usage:
 
