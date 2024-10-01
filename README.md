@@ -4,6 +4,10 @@
 
 _image "borrowed" from [lolcat](https://github.com/busyloop/lolcat/blob/master/ass/nom.jpg)_
 
+# Screenshot
+
+![](https://github.com/mbaraa/lsdcat/raw/main/assets/screenshot.jpg)
+
 # Usage:
 
 ## Dependencies
