@@ -23,6 +23,14 @@ _image "borrowed" from [lolcat](https://github.com/busyloop/lolcat/blob/master/a
 
 _OR_
 
+Install my [Gentoo Overlay](https://github.com/mbaraa/gentoo-overlay)
+
+```bash
+; sudo emerge -qav lsdcat
+```
+
+_OR_
+
 - Clone the repo
 
 ```bash
